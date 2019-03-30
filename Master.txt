@@ -1,4 +1,4 @@
 
 <Version: 1.0>
-/data/
+/data/Weapons.json /https://raw.githubusercontent.com/apedoya/UpdaterForProject/master/Weapons.json
 <End of Version>
